@@ -48,3 +48,9 @@ create table payment(
 	references client(customer_id)
 );
 
+Screenshots
+
+1. Creating Policy 
+![image](https://github.com/user-attachments/assets/f4677077-93c4-4dc3-8e69-5d32d9a42453)
+Result:-
+![image](https://github.com/user-attachments/assets/162750bf-2714-4f87-ab58-8787e28be571)
